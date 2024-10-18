@@ -1,0 +1,2 @@
+# Employee-Database-Design-with-EER-Diagrams-Schema-Creation-and-Relationship-Management
+In this lab, I designed an Employee database schema using Enhanced Entity-Relationship (EER) diagrams. Entities like Employee, Department, and Salary were created with attributes, primary keys, and foreign key constraints to ensure data integrity. Relationships, including one-to-many, were set, reinforcing key database design concepts.
